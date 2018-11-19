@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.7                          
+#!/usr/bin/python3                         
 # Filnamn: test.py
 # Kodexempel, lärobok sid. 48-49 
                                                     # "Shebang" Raden ovan gör att vi kan köra filen via operativsystemet 

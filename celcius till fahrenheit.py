@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.7                          
+#!/usr/bin/python3                          
 # Filnamn: celcius till fahrenheit.py
 # Kodexempel, lärobok sid. 50
 

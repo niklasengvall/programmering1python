@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3                         
+#!/usr/bin/python3                         
 # Filnamn: multiplikation ver 3.py
 # Kodexempel, lärobok sid. 49-50
 
