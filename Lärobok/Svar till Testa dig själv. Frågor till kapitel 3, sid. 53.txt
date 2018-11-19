@@ -1,0 +1,20 @@
+# Testa dig själv. Svar till Testa dig själv. Frågor till kapitel 3, sid. 53
+
+# 1. File/New File eller kortkommandot Ctrl + N
+#
+# 2. .py
+#
+# 3. En instruktion till linux eller mac operativsystemet om var python finns
+#    installerat, anger vilket program som ska ta hand om och köra filen
+#
+# 4. En shebang har ingen effekt i datorer med Windows 
+#
+# 5. Man kan bryta rad inom parentesuttryck eller med bakåtvänt snedstreck \
+#    och på så sätt tala om att kodraden fortsätter på raden under. Med så
+#    kallade trippelciterade strängar s går det också bra.
+#
+# 6. Man skriver kommentarer genom att inleda dem med # fyrkant (brädgård) 
+#
+# 7. Kommentarer används för att tala om vad ett kodstycke eller kodrad
+#    har för avsikt, vad den gör helt enkelt, men inte typ öka var a med 1
+

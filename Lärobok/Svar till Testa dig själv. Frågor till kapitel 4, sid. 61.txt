@@ -1,0 +1,16 @@
+# Testa dig själv. Svar till Testa dig själv. Frågor till kapitel 3, sid. 53
+
+# 1. Dessa jämförelseoperatorer finns i Python
+#    == Lika med
+#    <  Mindre än
+#    >  Större än
+#    <= Mindre än eller lika med
+#    >= Större än eller lika med
+#    != Inte lika med
+#
+# 2. Raden med if a = 5 är felaktig det saknas ett likhetstecken, nu tilldelas
+#    a siffran 5, det ska alltså stå if a == 5:
+#
+# 3. and, or och not.
+#
+# 4. True eller False (sant eller falskt).
