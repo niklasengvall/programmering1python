@@ -1,37 +1,52 @@
-1.  Ett datorprogram är en serie sifferkoder lagrade i datorns internminne          eller sekundärminne (hårddisk mm.) och som någon programmerare tänkt ut         innan det matades in i datorn. Program innehåller en mängd instruktioner        som datorn ska utföra.
+1.  Ett datorprogram är en serie sifferkoder lagrade i datorns internminne          
+    eller sekundärminne (hårddisk mm.) och som någon programmerare tänkt ut
+    innan det matades in i datorn. Program innehåller en mängd instruktioner
+    som datorn ska utföra.
 
-2.  Den som ska ha äran för att ha kommit på idén med att lagra program i           datorns minne är John von Neuman.
+2.  Den som ska ha äran för att ha kommit på idén med att lagra program i 
+    datorns minne är John von Neuman.
 
 3.  De fyra programmerings-nivåerna: Maskinkodsprogrammering (hexadecimalt)
                                      Assemblerprogrammering (Mnemonics)
                                      Kompilerande språk (C/C++)
                                      Interpreterande språk (Python)
 
-4.  Menmonics är bokstavsförkortningar som är lätta att komma ihåg och är           maskinnära instruktioner som är enklare att använda jämfört med maskinkod.      Används framförallt inom assemblerprogrammeringen.
+4.  Menmonics är bokstavsförkortningar som är lätta att komma ihåg och är
+    maskinnära instruktioner som är enklare att använda jämfört med maskinkod.
+    Används framförallt inom assemblerprogrammeringen.
 
 5.  Maskinkod visas vanligtvis som hexkod (tal med basen 16)
 
 6.  Assembler eller assemblator
 
-7.  Källkod är själva kodspråket (syntaxen) man använder för att programmera,       dvs. göra ett program. Denna filmåste kompileras, göras om till maskinkod       innan den kan användas av en dator.
+7.  Källkod är själva kodspråket (syntaxen) man använder för att programmera,
+    dvs. göra ett program. Denna filmåste kompileras, göras om till maskinkod
+    innan den kan användas av en dator.
 
 8.  
     a) Högnivåspråk som fanns i början på 60-talet FORTRAN, COBOL, Algol, Lisp.
 
-    b) Och de skapades av IBM, amr. försvarsdepartementet, forskare i Europa,      och Alonzo Church.  
+    b) Och de skapades av IBM, amr. försvarsdepartementet, forskare i Europa,
+       och Alonzo Church.  
 
-9.  Översättning från källkod till maskinkod när det gäller högnivåspråk,           kallas kompilering.
+9.  Översättning från källkod till maskinkod när det gäller högnivåspråk,
+    kallas kompilering.
 
 10.
-    a) Källkod som inte kompileras kan istället köras med ett program som utför    källkodens instruktioner direkt, programmet kallas tolk eller               interpretator.
+    a) Källkod som inte kompileras kan istället köras med ett program som utför
+       källkodens instruktioner direkt, programmet kallas tolk eller inter-
+       pretator.
 
-    b) Ofta kallas programmen som utför instruktionerna också runtimemodul         (Visual Basic) eller javamotor (Java).
+    b) Ofta kallas programmen som utför instruktionerna också runtimemodul 
+       (Visual Basic) eller javamotor (Java).
 
 11. En kompilator översätter programkoden (källkoden) till maskinkod.
 
-12. Sista steget (efter kompilering) då objektskodsfiler blir maskinkod, kallas     länkning.
+12. Sista steget (efter kompilering) då objektskodsfiler blir maskinkod, kallas
+    länkning.
 
-13. Programmet man använder för att skriva in källkoden till ett program kallas     integrerad utvecklings miljö (eng. förkortn. IDE).
+13. Programmet man använder för att skriva in källkoden till ett program kallas
+    integrerad utvecklings miljö (eng. förkortn. IDE).
 
 14. IDLE är Pythons utvecklingsmiljö som följer med när man installar det.
 
