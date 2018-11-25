@@ -1,33 +1,33 @@
-# Testa dig själv. Svar till frågorna kapitel 2, sid. 45
+Testa dig själv. Svar till frågorna kapitel 2, sid. 45
 
-# 1. "//" betyder heltals division, om 10/3 = 3.33 så blir 10//3 = 3
-#    "%" betyder modulo och ger resten efter en heltals division,
-#        om 10/3 = 3.33, ta bort decimalerna, då går 3, tre gånger i 10 = 9
-#        10 - 9 = 1
-#    "**" betyder upphöjt till, om man skriver 5**3 => 5 * 5 * 5 = 25 * 5 = 125
-#
-# 2. Variabelnamn får innehålla bokstäver, siffror och understrykningstecken.
-#    Men de får inte börja med en siffra
-#
-# 3. flyttal är tal med decimaler. I python anges decimaltal med decimalpunkt
-#
-# 4. flyttal kodas i datorns minne med en exponent del och taldel (mantissa)
-#    till skillnad mot heltal som lagras i minnet med en del (normalt 2-8 bytes)
-#
-# 5. 30 / 10 = 3.0 => flyttal då division alltid medför att resultatet alltid
-#    blir ett flyttal
-#
-# 6. 30 // 10 = 3 => heltal då operatorn // betyder helatalsdivision
-#
-# 7. 27 % 7 = 6 => resten som blir över efter en heltalsdivision
-#
-# 8. Escapesekvenser
-#   a) Radbrytning/ny rad = \n
-#   b) Flytta till nästa tabstopp = \t
-#   c) Utskrift av ett enkelt citationstecken = \'
-#   d) Utskrift av ett dubbelt citationstecken = \"
-#   e) Utskrift av ett bakåtvänt snedstreck (backslash)  = \\
-#
-# 9. Undertrycka radframmatning i slutet av en print()-sats =
-#    print('Exempel på radframmatning\n') alt.
-#    print('Din sträng', end='\n')
+1. "//" betyder heltals division, om 10/3 = 3.33 så blir 10//3 = 3
+   "%" betyder modulo och ger resten efter en heltals division,
+       om 10/3 = 3.33, ta bort decimalerna, då går 3, tre gånger i 10 = 9
+       10 - 9 = 1
+   "**" betyder upphöjt till, om man skriver 5**3 => 5 * 5 * 5 = 25 * 5 = 125
+
+2. Variabelnamn får innehålla bokstäver, siffror och understrykningstecken.
+   Men de får inte börja med en siffra
+
+3. flyttal är tal med decimaler. I python anges decimaltal med decimalpunkt
+
+4. flyttal kodas i datorns minne med en exponent del och taldel (mantissa)
+   till skillnad mot heltal som lagras i minnet med en del (normalt 2-8 bytes)
+
+5. 30 / 10 = 3.0 => flyttal då division alltid medför att resultatet alltid
+   blir ett flyttal
+
+6. 30 // 10 = 3 => heltal då operatorn // betyder helatalsdivision
+
+7. 27 % 7 = 6 => resten som blir över efter en heltalsdivision
+
+8. Escapesekvenser
+   a) Radbrytning/ny rad = \n
+   b) Flytta till nästa tabstopp = \t
+   c) Utskrift av ett enkelt citationstecken = \'
+   d) Utskrift av ett dubbelt citationstecken = \"
+   e) Utskrift av ett bakåtvänt snedstreck (backslash)  = \\
+
+9. Undertrycka radframmatning i slutet av en print()-sats =
+   print('Exempel på radframmatning\n') alt.
+   print('Din sträng', end='\n')

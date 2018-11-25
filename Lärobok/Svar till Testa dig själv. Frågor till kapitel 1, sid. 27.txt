@@ -1,3 +1,6 @@
+
+Testa dig själv. Svar till frågorna kapitel 1, sid. 27
+
 1.  Ett datorprogram är en serie sifferkoder lagrade i datorns internminne          
     eller sekundärminne (hårddisk mm.) och som någon programmerare tänkt ut
     innan det matades in i datorn. Program innehåller en mängd instruktioner

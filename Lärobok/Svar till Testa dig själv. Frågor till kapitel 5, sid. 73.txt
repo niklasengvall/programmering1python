@@ -1,0 +1,40 @@
+Testa dig själv. Svar till frågorna kapitel 5, sid. 73
+
+1. Iteration betyder upprepning, inom programmering kallas det loopar
+
+2. Exempel på en for-loop:
+
+    # Program som skriver ut alla udda tal mellan 1 och 10
+    for i in range(1,10,2):
+        print(i, end=' ')
+
+3. Exempel på en while-loop:
+
+    # Program som skriver ut alla udda tal mellan 1 och 10
+    i = 1
+    while i <= 10:
+        if i % 2 == 1:
+            print(i, end=' ')
+        i += 1
+
+4. for-loopar är den vanligast förekommande typen av loopar i Python
+
+5. Rader som är indragna under for eller while uttrycket med samma indragsmått
+   tillhör loopen
+
+6. Genom att trycka ned tangentkombinationen Ctrl + C så avbryter du enkelt 
+   oändliga loopar under programkörning
+
+7. Med hjälp av en if-sats tillsammans med en break-sats
+
+8. Talen som ingår i range(1, 10) är: 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+9. Steg som sägs ingå i programutvecklingen:
+    
+    1. Designa (eller gör om) programmet 
+    2. Skriv koden
+    3. Rätta syntaxfel (tolken eller kompilatorn säger till vilkade är)
+    4. Provkör och testa programmet
+    5. Finns det logiska fel sådet inte fungerar som tänkt eller som vi vill,
+       gå tillbaka till punkt 1
+       
