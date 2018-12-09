@@ -23,7 +23,7 @@ Testa dig själv. Svar till frågorna kapitel 1, sid. 27
 6.  Assembler eller assemblator
 
 7.  Källkod är själva kodspråket (syntaxen) man använder för att programmera,
-    dvs. göra ett program. Denna filmåste kompileras, göras om till maskinkod
+    dvs. göra ett program. Denna fil måste kompileras, göras om till maskinkod
     innan den kan användas av en dator.
 
 8.  
