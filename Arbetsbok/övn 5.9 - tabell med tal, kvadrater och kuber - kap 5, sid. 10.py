@@ -14,8 +14,4 @@ print('========================')
 for i in range(1, 21):
     print('{0:>3d} {1:>4d} {2:>5d}'.format(i, i*i, i*i*i))
 
-print('')
 input('\nTryck på en tangent...\n')
-
-# På skärmen visas följande:
-# 110
