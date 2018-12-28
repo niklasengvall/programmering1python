@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Filnamn: övn 5.9 - tabell med tal, kvadrater och kuber - kap 5, sid. 10.py.py
+# Filnamn: övn 5.9 - tabell med tal, kvadrater och kuber - kap 5, sid. 10.py
 
 # Loopar - upprepning, iteration
 # Programmeringsövningar till kapitel 5 - Arbetsbok

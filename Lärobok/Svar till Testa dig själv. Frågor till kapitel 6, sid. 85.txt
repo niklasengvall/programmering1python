@@ -1,0 +1,66 @@
+Testa dig själv. Svar till frågorna kapitel 5, sid. 85
+
+1.  En strängkonstant eller literal som det också kallas i Python - är en följd 
+    av tecken inneslutna inom citationstecken, såväl enkla (apostrofer) som 
+    dubbla.
+
+2.  En strängvariabel är en variabel som refererar till en strängkonstant. Med 
+    hjälp av en strängvariabel kan du lagra, hänvisa till samt påverka kopior av strängkonstanter.
+
+3.  För att avläsa längden på en sträng kan du använda den inbyggda 
+    standardfunktionen len() och i funktionskroppen hänvisa till t.ex. en strängkonstant eller strängvariabel.
+
+    lgd = len(namn)
+
+4.  Att lägga ihop två strängar till en, kallas konkatenering
+
+5.  För att slå samman två strängar till en, används plus-operatorn +
+
+    fnmn = 'Tage'
+    enmn = 'Test'
+
+    nmn = fnmn + ' ' + enmn
+
+6.  En sträng som inte innehåller något, kallas för en tom sträng.
+    Tomma strängar tolkas som False vid logisk testning och vid användning i en print-sats så skrivs en tom rad ut.
+
+7.  Strängar är i Python oföränderliga (immutable), dvs. ska du göra en ändring 
+    i en sträng så måste ändringen lagras i en ny variabel. Det kan faktiskt ses som en säkerhetsdetalj då programmeraren vet att variabeln alltid innehåller det den ska.
+
+8.  Med tilldelningen namn = "Eva Persson"
+
+    a) namn[2] hänvisar då till tecknet 'a'
+
+    b) för att få fram bokstaven P i efternamnet måste vi skriva namn[4]
+
+9.  För att omvandla en sträng som innehåller tecken som bildar ett heltal kan 
+    man använda funktionen int(), exempel:
+    
+    nr = '123'
+    tal = int(nr)
+
+10. För att omvandla heltal till en sträng så kan du använda funktionen str(), 
+    exempel:
+
+    tal = 100
+    strTal = str(tal)
+
+11. Här är exempelkod för att gå igenom en hel sträng med hjälp av while-loopen:
+
+    enSträng = 'En liten fras var detta ja'
+    i = 0
+    while i < len(enSträng):
+        print(enSträng[i], end = '')
+        i += 1
+
+12. Här är exempelkod för att gå igenom en hel sträng med hjälp av 
+    for in-loopen:
+
+    enSträng = 'En liten fras var detta ja'
+    for tkn in enSträng:
+        print(tkn, end = '')
+
+
+
+
+
