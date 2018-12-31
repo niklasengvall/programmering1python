@@ -1,6 +1,6 @@
 #!/usr/bin/python3.7
 
-# Filnamn: övn 6.8 - romb - kap. 6, sid. 15.py
+# Filnamn: övn 6.8 - romb - kap. 6, sid. 16.py
 
 # Mer om teckensträngar i Python
 # Programmeringsövningar till kapitel 6
