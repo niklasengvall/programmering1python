@@ -2,25 +2,25 @@
 
 # Filnamn: kap. 3, sid. 50-51 - kommentarer.py
 
-# Programmering 1 med Python - Lärobok
 # Kapitel 3 - Skapa program eller skript
+# Programmering 1 med Python - Lärobok
 
 # Kommentarer i program
-# Programmet konverterar från Celcius till Fahrenheit
+# Programmet omvandlar från Celcius till Fahrenheit
 
-# Inmatning av gradtal i Celciusskalan
-celcius = float(input('Ange grader i Celcius: '))
+# Ta emot inmatning av gradtal i Celcius
+c = float(input('Mata in grader i Celcius: '))
 
-# Omvandling till Fahrenheit
-fahrenheit = celcius * 9 / 5 + 32
+# Omvandla till Fahrenheit
+f = c * 9 / 5 + 32
 
-# Utskrift av resultatet med en decimal
-print('Det blir {:.1f} grader fahrenheit'.format(fahrenheit))
+# Skriv ut resultatet med två decimalers noggranhet
+print('De angivna graderna i Celcius blir {:.2f} grader i fahrenheit'.format(f))
 
 # Exempel på onödig kommentar
-# x += 1 # Öka x med ett
+# a += 1 # Lägg till ett till a variabeln
 
 # Exempel på bra kommentar om vad raden/raderna nedanför har för avsikt
-# x += 1 # För att ha viss marginal
+# a += 2 # För att ha bättre omfång
 
 

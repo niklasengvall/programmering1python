@@ -2,12 +2,12 @@
 
 # Filnamn: kap. 3, sid. 49 - test2.py
 
-# Programmering 1 med Python - Lärobok
 # Kapitel 3 - Skapa program eller skript
+# Programmering 1 med Python - Lärobok
 
-# Programmet frågar användaren efter namn och skriver en fin hälsning
-# och hålleer sedan kvar utskriften med en paus som avslutas med t.ex. ENTER
+# Programmet frågar användaren efter hens namn och skriver en hälsning
+# och håller sedan kvar utskriften med en paus som avslutas med t.ex. ENTER
 
-namn = input('Vad heter du? ')
-print('Hej, ' + namn + ', trevlig att råkas!')
+name = input('Va heter du? ')
+print('Tjenna, ' + name + ', trevlig att ses!')
 input('\n\nTryck ENTER för att avsluta')

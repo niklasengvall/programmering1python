@@ -1,0 +1,73 @@
+Testa dig själv. Svar till frågorna kapitel 7, sid. 93
+
+1.  Vilken talbas använder vi när vi talar om
+
+    a) decimala tal:     10
+    b) binära tal:        2
+    c) oktala tal:        8
+    d) hexadecimala tal: 16
+
+2.  Vad menasmeden bit?
+
+    En bit förkortning för binary digit eller binär siffra som det heter på svenska är den minsta enheten i datorns minne, kan vara 0- eller 1-ställd.
+
+3.  Vad menas med en byte?
+    
+    Ofta adresseras, flyttas eller bearbetas bitarna i datorns minne i en eller flera grupper om 8 st bitar i taget. En sådan grupp om 8 bitar kallas en byte. Vanligaste sättet att ange minnesutrymme är att använda enheten byte.
+
+4.  Hur många bytes menas vanligen mer exakt om man talra om 1 KB (KiB)
+
+    1024 Bytes
+
+5.  Hur börman föratt vara merkorrekt förkorta 4 GB
+
+    Man bör skriva enligt anvisningar från International Electrotechnical  Commision (IEC) på formen 4 GiB 
+
+6.  Och hur bör det uttalas?
+
+    Fyra "gibi" - gigabinär bytes
+
+7.  Nämn exempelpå hur man i olika programmeringssammanhang har användning för 
+    hexadecimala tal.
+
+    När du ska ange en maskininstruktion till datorn så är det enklare att ange den på hexadecimal form än på binär form. En byte anges med två tecken på hexadecimal form, jämfört med 8 st ettor eller nollor i följd då det binära systemet används. 
+    
+    Ofta anges färgen på bildpunkter på skärmen, med så kallade hexadecimala  RGB-koder (röd, grön och blå nyans intensitet) genom att ange ett hex värde för respektive färg. På så sätt får man över 16 miljoner färgkombinationer.
+
+    T.ex. #000000 - svart, #FFFFFF - vitt, #FFFF00 - gult, #0000FF - blått
+
+8.  Varför ärdet så lätt att omvandla mellan binära och hexadecimala tal?
+
+    Om du har det binära talet 11001110 00110001 (2 byte)
+
+    Dela in det i grupper om 4 bitar så kallade nibbles
+
+    1100 1110 0011 0001
+
+    Kom ihåg bitvikterna vilket du nu ska använda på varje grupp med binära tal
+
+    8 4 2 1 
+
+    och att hexadecimala talsystemet består av siffrorna 0 - 9 samt bokstäverna A - F där A motsvarar 10 och F, 15 decimalt
+
+    1100 = 8*1 + 4*1 + 2*0 + 1*0 = 12 = C 
+    1110 = 8*1 + 4*1 + 2*1 + 1*0 = 14 = E
+    0011 = 8*0 + 4*0 + 2*1 + 1*1 =  3 = 3
+    0001 = 8*0 + 4*0 + 2*0 + 1*1 =  1 = 1
+
+    Med andra ord 1100111000110001 = CE31
+
+9.  Hur gör man om man i ett program vill skriva in data på binär, oktal eller      hexadecimal form?
+
+    man anväder prefixen 0b (noll b), 0o (noll o) och 0x (noll x) framför talet.
+
+    Exempel: binärtTal = 0b10100010
+             hexTal = 0xA2
+             oktaltTal = 0o242
+             decimalt = 162
+
+10. Vilka formatangivelser ska man ha i formatsträngen om man vill ha heltal         utskrivna på binär, oktal eller hexadecimal form?
+
+    {:b} exempel: print('Binärt: {:b}'.format(heltal))
+    {:o}
+    {:x}

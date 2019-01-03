@@ -7,6 +7,7 @@
 
 # Programmet frågar efter basen och höjden i en triangel. Sedan beräknas arean
 # och resultatet skrivs ut på skärmen
+
 # Skriv ut programmets rubrik
 print('Beräkna arean på en triangel')
 print('============================\n')

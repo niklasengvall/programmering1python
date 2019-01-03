@@ -1,4 +1,4 @@
-Testa dig själv. Svar till frågorna kapitel 5, sid. 85
+Testa dig själv. Svar till frågorna kapitel 6, sid. 85
 
 1.  En strängkonstant eller literal som det också kallas i Python - är en följd 
     av tecken inneslutna inom citationstecken, såväl enkla (apostrofer) som 
@@ -27,9 +27,7 @@ Testa dig själv. Svar till frågorna kapitel 5, sid. 85
 7.  Strängar är i Python oföränderliga (immutable), dvs. ska du göra en ändring 
     i en sträng så måste ändringen lagras i en ny variabel. Det kan faktiskt ses som en säkerhetsdetalj då programmeraren vet att variabeln alltid innehåller det den ska.
 
-8.  Med tilldelningen namn = "Eva Persson"
-
-    a) namn[2] hänvisar då till tecknet 'a'
+8.  a) namn[2] hänvisar då till tecknet 'a'
 
     b) för att få fram bokstaven P i efternamnet måste vi skriva namn[4]
 
