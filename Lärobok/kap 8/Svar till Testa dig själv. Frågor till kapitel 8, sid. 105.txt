@@ -1,0 +1,85 @@
+Testa dig själv. Svar till frågorna kapitel 8, sid. 105
+
+1.  Man skriver en lista genom att tilldela en variabel värden inom 
+    hakparenteser separerade med komma.
+
+    Exempel:
+        
+        lista = [1, 2, 3]
+
+2.  Listor kan innehålla element av datatyperna: heltal, flyttal, booleska, 
+    strängar och andra listor.
+
+3.  En tippel (tuple) kan skrivas enligt följande två exempel:
+
+        tippel = (7, 8, 9)
+
+        eller
+
+        tippel2 = 4, 5, 6
+
+4.  Skillnaden mellan listor och tipplar är att listor kan man uppdatera och 
+    ändra, tipplar är oföränderliga (imutable).
+
+5.  För att ta reda på en listas eller tippels längd, eller mer korrekt antal 
+    element kan man använda funktionen len(x) där x är namnet på listan eller tippeln.
+
+    Exempel:
+
+        längdLista = len(lista)
+        längdTippel = len (tippel)
+
+6.  I Python om du har variablerna x och och vill växla innehållet mellan dem,      skriv:
+
+        x, y = y, x
+      
+    En annan metod som fungerar, men som kräver en tredje variabel:
+
+        y = temp
+        y = x
+        x = temp
+
+7.  Med sort() kan du sortera en befinlig lista utan att behöva skapa en ny 
+    listvariabel, exempel:
+
+        osorteradLista = [2, 1, 7, 4]
+        osorteradLista.sort() # Är nu sorterad [1, 2, 4, 7]
+
+8.  Man kan inte sortera en tippel utan att skapa en ny tippel eller lista, de 
+    är oföränderliga.
+
+    Metod som fungerar:
+
+        osorteradTippel = 2, 1, 7, 4
+        nyTippel = sorted(osorteradTippel) # nyTippel är sorterad [1, 2, 4, 7]
+
+9.  Med metoden append(x) där x motsvarar värdet på ett nytt element kan vi
+    lägga till element till befintliga listor.
+
+    Exempel:
+    
+        lista = [1, 2, 3]
+        lista.append(4) # Nu innehåller listan 4 element: [1, 2, 3, 4]
+        lista.insert(len(lista), 5) # En metod som också fungerar
+
+10. Med metoden pop(x) tar du bort önskat element med index x, utelämnas x tas 
+    sista elementet bort.
+
+    Exempel:
+
+        lista = [1, 2, 3, 4]
+        lista.pop(2) # Tar bort 3:an så nu innehåller lista [1, 2, 4]
+
+11. För att lägga ihop två listor kan du enklast använda operatorn +, 
+    alternativt använda metoden extend(x) på febitlig lista där x är den andra listan
+
+    Exempel:
+    
+    L1 = [1, 2]
+    L2 = [3, 4]
+    L3 = [5, 6]
+
+    L1 += L2 # Enklaste metoden för att lägga ihop listor
+
+    L1.extend(L3) # Lite krångligare men fungerar
+

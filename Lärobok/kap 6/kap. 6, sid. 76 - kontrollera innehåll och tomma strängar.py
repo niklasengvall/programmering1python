@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3.7
 
 # Filnamn: kap. 6, sid. 76 - kontrollera innehåll och tomma strängar.py
 
