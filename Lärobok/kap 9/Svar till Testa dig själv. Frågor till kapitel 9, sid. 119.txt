@@ -1,0 +1,68 @@
+Testa dig själv. Frågor till kapitel 9, sid. 119.txt
+
+ 1. När man namnger ett programblock med kod och använder det namnet för att       köra koden så kallas just det att anropa en funktion.
+
+ 2. Fördelar med funktioner när man bygger program är dels att de är 
+    återanvändningsbara och kan användas i andra program. Dels blir programkoden mer överskådlig och strukturerad samt lättare att förstå.
+
+ 3. Man känner igen ett funktionsanrop genom att man ser dem med efterföljande
+    parenteser som dels kan sakna innehåll, dels var fyllda med en til flera argument, exempel:
+
+        minFunktion()
+        enAnnanFunktion(x, y)
+        stdFunktion(x, y, z = 3)
+
+ 4. I funktionsdefinitionens första rad, allmänt kallad funktionshuvud står        själva funktionens namn efterföljt av parenteser, är de fyllda med något       så kallas de formella parametrar.
+
+ 5. Vid funktionsanrop så kallas det som är innanför funktionens efterföljande     parenteser argument eller aktuella parametrar.
+
+ 6. Funktioner kan returnera något i form av värden tillbaka till det anropande    programmet med hjälp av den avslutande instruktionen return, exempelkod:
+
+        def kub(x):
+            return x * x * x
+
+        volym = kub(3) # volym får värdet 27 som returneras från funktionanrop
+
+ 7. Med docstrings, strängar innanför trippelcitattecken, direkt nedanför          funktionshuvudet, kan du dokumentera vad funktionen gör. Föra att komma åt     och skriva ut dessa så kan du i python-konsolen eller i programmet skriva      help(<funktion>)
+
+ 8. Genom att använda nyckelordet global i en funktion framför namnet på en        global variabel så kan du ändra dess värde via funktionen. Exempel:
+
+        def ändraMoms(nyMoms):      
+            global moms
+            moms = nyMoms
+            print('I funktionen ändraMoms ändras momsfaktorn till:', moms)
+
+        # Global variabel 
+        moms = 0.25
+
+        print('Momsfaktorn är globalt:', moms)
+        ändraMoms(0.12)
+        print('Momsfaktorn är efteråt globalt:', moms)
+
+    Koden ovan genererar utskriften:
+
+    Momsfaktorn är globalt: 0.25
+    I funktionen ändraMoms ändras momsfaktorn till: 0.12
+    Momsfaktorn är efteråt globalt: 0.12
+
+ 9. a) För att importera moduler, använd någon av nedanstående metoder
+       import <modulnamn>
+       from <modulnamn> import funktion, funktion
+       from <modulnamn> import * 
+       import <modulnamn> as <merLämpligtNamn>
+
+    b) För att se vad som är definierat i en modul (vilka funktioner som finns)
+       dir() - visar vilka moduler som medföljer Python
+       dir(<modulnamn>) - visar innehållet i en modul
+       dir(__builtins__) - visa vilka inbyggda funktioner som finns
+
+    c) För att få reda på vad en funktion i en importerad modul gör, läsa dess 
+       så kallade docstring, exempel:
+       help(<modulnamn>) - Du får info från alla docstrings i modulen
+       help(<modulnamn>.<funktionsnamn>) - DU får info om just den funktionen
+
+
+
+
+
+

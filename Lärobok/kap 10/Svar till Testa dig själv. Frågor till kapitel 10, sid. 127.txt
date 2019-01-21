@@ -1,0 +1,46 @@
+Testa dig själv. Frågor till kapitel 10, sid. 127.txt
+
+ 1. Slumptal som används vid programmering kallas egentligen pseudoslumptal
+    eftersom det inte är äkta slumptal.
+
+ 2. Datorprogram som försöker efterlikna ett ett verkligt förlopp med hjälp av 
+    slumptal kallas datorsimuleringar.
+
+ 3. Utryck som genererar olika slumptal:
+
+   from random import randrange, random
+
+   # a) Heltal i intervallet 1-6
+   randrange(1,7)
+
+   # b) Heltal i intervallet 1-35
+   randrange(1,36)
+
+   # c) Flyttal i intervallet 0.0 till 1.0
+   random()
+
+ 4. Genom att använda funktionen shuffle, exempel:
+ 
+   # lista med element
+   färg = ['hjärter', 'klöver', 'ruter', 'spader']
+
+   # blanda elementen
+   shuffle(färg)
+
+   # skriv ut elementen som nu fått en annan ordning
+   print(färg)
+
+ 5. Man väljer ut en lista av n slumpvis valda element från en annan lista 
+    eller range, med hjälp av funktionen sample(lista, n), exempel:
+
+   # Initiera en tom lista
+   lista = []
+   # Skapa 10 st slumptal i intervallet 1 - 100 och spara dessa i listan
+   for c in range(1,11): 
+      lista.append(randrange(1,101))
+
+   # Skriv ut listan som den är
+   print(lista)
+
+   # Välj ut 5 slumpvisa tal från listan
+   print(sample(lista, 5))

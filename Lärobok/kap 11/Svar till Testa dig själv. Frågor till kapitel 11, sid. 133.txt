@@ -1,0 +1,35 @@
+Testa dig själv. Frågor till kapitel 11, sid. 133.txt
+
+ 1. Genom att definiera egna felklasser som inte gör något. Det är bra om man 
+    har med ordet Error i slutet för att folk ska förstå att det handlar om felklasser
+    
+    Exempel:
+
+       class calcError:
+           pass     
+       try:
+           a =  b - c
+           if a < 0:
+               raise calcError
+       except calcError:
+           print('FEL: Diametern får ej bli negativ.')
+       else:
+           omkrets = a * 6.28
+       
+       print('Omkretsen blir', omkrets)
+
+ 2. För att flagga för att ett fel inträffat, dvs. resa ett eget undantag, så skriver man:
+
+    raise <felklassen> 
+
+ 3. Den fullständiga syntaxe för undantagshantering/felkontroll är:
+ 
+    try:
+        # Block som vi ska försöka köra
+    except <optional felKlass>:
+        # Block för undantagshantering, vad som ska göras om det blir fel
+    else:
+        # Block som ska köras om allt gick bra, dvs. inga undantag skedde
+    finally:
+        # Block som alltid körs, kod som ska köras oavsett undantag eller inte
+   

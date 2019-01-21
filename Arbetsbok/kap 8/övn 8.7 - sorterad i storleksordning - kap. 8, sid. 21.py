@@ -11,7 +11,7 @@
 
 # Lista med 15 tal
 tal = [23, 89, 3, 63, 12, 34, 42, 97, 51, 67, 7, 18, 24, 91, 72]
-tal2 = tal[:] # Kopiera tal till liistan tal2
+tal2 = tal[:] # Kopiera tal till listan tal2
 
 # Skriv ut listan tal före förändring
 print('tal före förändring: ', tal)
