@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: kap. 5, sid. 64 - for-loopar i Python med strängar.py
 

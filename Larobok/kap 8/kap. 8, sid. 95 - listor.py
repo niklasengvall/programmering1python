@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # name: kap. 8, sid. 95 - listor.py
 

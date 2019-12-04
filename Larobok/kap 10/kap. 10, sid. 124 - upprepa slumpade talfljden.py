@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: kap. 10, sid. 124 - upprepa slumpade talföljden.py
 # Kapitel 10 - Slumptal i programmering

@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: kap. 12, sid. 147-149 - ritar en funktion.py
 

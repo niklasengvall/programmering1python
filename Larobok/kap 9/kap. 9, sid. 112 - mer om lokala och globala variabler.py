@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: kap. 9, sid. 112 - mer om lokala och globala variabler.py
 

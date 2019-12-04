@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: kap. 5, sid. 67 - while-loopar, fråga efter lösenord.py
 

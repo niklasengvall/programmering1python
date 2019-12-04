@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: kap. 16, sid. 187 - sortera en lista av tipplar eller lista av
 # listor.py

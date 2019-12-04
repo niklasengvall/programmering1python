@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: kap. 13, sid. 160 - rekursion, beräkna fakultet.py
 

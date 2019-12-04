@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: kap. 12, sid. 135 - sköldpaddsgrafik kodexempel.py
 

@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: kap. 5, sid. 69 - while-loopar, program för att addera tal.py
 
