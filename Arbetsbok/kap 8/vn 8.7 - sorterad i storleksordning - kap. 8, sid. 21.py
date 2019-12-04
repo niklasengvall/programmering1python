@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 8.7 - sorterad i storleksordning - kap. 8, sid. 21.py
 

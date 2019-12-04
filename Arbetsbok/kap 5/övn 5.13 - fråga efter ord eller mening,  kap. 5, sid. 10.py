@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 5.13 - fråga efter ord eller mening, kap. 5, sid. 10.py
 

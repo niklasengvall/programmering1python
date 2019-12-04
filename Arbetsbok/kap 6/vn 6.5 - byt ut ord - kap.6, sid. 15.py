@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 6.5 - byt ut ord - kap.6, sid. 15.py
 

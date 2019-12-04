@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 13.2, sid. 32 - rekursiv omvandling dec till bin.py
 

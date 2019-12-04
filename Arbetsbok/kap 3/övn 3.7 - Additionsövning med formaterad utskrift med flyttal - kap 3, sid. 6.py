@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 3.7 - Additionsövning med formaterad utskrift med flyttal - kap 3
 # sid. 6.py

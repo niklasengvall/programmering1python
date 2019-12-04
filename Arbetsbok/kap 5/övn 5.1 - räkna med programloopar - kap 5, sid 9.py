@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 5.1 - räkna med programloopar - kap 5, sid 9.py
 

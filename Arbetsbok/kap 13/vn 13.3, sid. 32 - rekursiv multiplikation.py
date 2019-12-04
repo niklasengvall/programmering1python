@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 13.3, sid. 32 - rekursiv multiplikation.py
 

@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 6.3 - snygg namn konkatenering - kap. 6, sid 15.py
 

@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 5.3 - udda tal mindre än 20 - kap 5, sid 9.py
 

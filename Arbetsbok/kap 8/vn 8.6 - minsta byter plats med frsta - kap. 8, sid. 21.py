@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 8.6 - minsta byter plats med första - kap. 8, sid. 21.py
 

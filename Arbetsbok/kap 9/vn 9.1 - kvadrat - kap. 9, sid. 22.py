@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 9.1 - kvadrat - kap. 9, sid. 22.py
 

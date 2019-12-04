@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 8.3 - beräkna summa och medelvärde av lista - kap. 8, sid. 21.py
 

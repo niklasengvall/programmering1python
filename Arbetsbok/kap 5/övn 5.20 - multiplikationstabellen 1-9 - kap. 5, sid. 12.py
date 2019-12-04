@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 5.20 - multiplikationstabellen 1-9 - kap. 5, sid. 12.py
 

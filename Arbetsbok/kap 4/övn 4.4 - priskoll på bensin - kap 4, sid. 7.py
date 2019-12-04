@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 4.4 - priskoll på bensin - kap 4, sid. 7.py
 

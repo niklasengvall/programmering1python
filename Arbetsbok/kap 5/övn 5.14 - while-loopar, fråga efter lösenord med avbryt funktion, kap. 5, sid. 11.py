@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 5.14 - while-loopar, fråga efter lösenord med avbryt funktion, 
 # kap. 5, sid. # 11.py

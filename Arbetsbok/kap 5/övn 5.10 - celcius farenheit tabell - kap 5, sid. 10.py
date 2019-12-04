@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 5.10 - celcius farenheit tabell - kap 5, sid. 10.py
 

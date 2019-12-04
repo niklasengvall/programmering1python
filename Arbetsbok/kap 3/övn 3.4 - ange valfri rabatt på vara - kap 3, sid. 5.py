@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.8
 
 # Filnamn: övn 3.4 - ange valfri rabatt på vara - kap 3, sid. 5.py
 
