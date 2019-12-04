@@ -1,0 +1,81 @@
+Testa dig själv. Frågor till kapitel 18, sid. 215.txt
+
+ 1. När ett program öppnar en fil så skapar programmet tillsammans med operativsystemet
+    en anteckningsarea för filen. Där kan filens egenskaper s.k. filattribut avläsas.
+    Filattributen omfattar bl.a. filstorlek, filnamn, datum för användning av filen, 
+    senaste spardatum, behörigheter för åtkomst m.m. Se bl.a. os.stat() på python.org
+
+    Vanligtvis skapas även en filpekare som håller reda på var man befinner sig i filen.
+    
+    Slutligen så skapas även en buffertarea för in- och/eller utmatning till filen.
+    
+ 2. Förutom "diskfiler" så kan begreppet fil även handla om olika in-/utdata enheter 
+    så som kosolen (skärmen) eller t.ex. skrivaren
+
+ 3. Filbuffertens funktion är att hålla koll på data som ska skrivas till disk. Normalt
+    så läser systemet in en eller några sektorer till denna buffert och sparar likaså 
+    minst en eller flera sektorer åt gången. Så när du lägger till, ändrar eller tar bort 
+    några enstaka tecken från en fil så hanterar ändock operativsystemet filen med minst 
+    en sektorsstorlek när inläsning eller skrivning sker mot filen och dess lagringsdisk.
+
+ 4. En filpekare är en slags variabel som håller reda på var man befinner sig i filen.
+
+ 5. Det som sker när en fil stängs är att minnesutrymme för buffertarea frigörs och 
+    ev. innehåll i skrivbufferten skrivs till filen. Dessutom släpps fillåsningen på 
+    filen så att den blir åtkomlig av operativsystemet och andra program.
+
+ 6. Avseende lagringssättet så brukar man skilja på textfiler (sekventiella filer) och 
+    binärfiler (direktfiler). Textfiler innehåller teckenkoder för bokstäver samt styrkoder. 
+    Läses, skrives normalt rad för rad (sekventiellt). Binärfiler läses och skrives enbart 
+    med binärkoder och man behöver inte läsa dem från början till slut, utan kan komma åt 
+    data var som helst i filen.
+
+ 7. Kod för radslutsmarkering i olika operativsystem:
+
+    Windows:                CR, LF (teckenkoder 13, 10)
+    Linux och nya MacOS:    LF (teckenkod 10)
+    Äldre Macintosh:        CR (teckenkod 13)
+
+ 8. Skillnaden mellan att en fil öppnas i mode "w+" eller att den öppnas med "r+" är att 
+    i mode "r+" så måste filen finnas sedan tidigare. Bägge modes tillåter både läsning 
+    och skrivning till filen i och med attributet "+".
+
+ 9. När en fil öppnas i mode "a" (append) så öppnas eller så skapas en ny fil om den inte finns 
+    för skrivning i slutet av filen. Filpekaren placeras i slutet av filen, på position 0 om 
+    filen är ny eller tom.
+
+10. Den stora skillnaden mellan att öppan en fil i textmode och binärt mode är att i text mode 
+    så är det enklare att göra översättningar göras gällande radslutsmarkeringar och teckenkodning.
+
+11. De vanligaste funktionerna för att (Obs. ingen felhantering):
+
+    Öppna en fil:             fil = open('test.txt', 'w+', encoding = 'utf-8')
+
+    Stänga en fil:            fil.close()
+
+    Skriva text till en fil:  fil.write('sträng' + '\n') 
+
+    Kod för att läsa en textrad:
+      
+      fil = open('test2.txt', 'r', encoding = 'utf-8')
+      rad = fil.readline()
+      fil.close()
+      print(rad, end = '') # Skriver ut första raden på konsolen
+
+    Kod för att läsa alla textrader:
+
+      fil = open('test2.txt', 'r', encoding = 'utf-8')
+      rader = fil.readlines()
+      fil.close()
+      for rad in rader:
+         print(rad.strip()) # Skriver ut en rad i taget på konsolen
+
+    Kod för att läsa all text i ett svep:
+
+      fil = open('test2.txt', 'r', encoding = 'utf-8')
+      texten = fil.read()
+      fil.close()
+      print(texten) # Skriver ut alla rader på konsolen
+
+
+
