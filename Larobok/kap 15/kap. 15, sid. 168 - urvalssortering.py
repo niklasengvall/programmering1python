@@ -1,4 +1,12 @@
 #!/usr/local/bin/python3.7
+
+# Filnamn: kap. 15, sid. 168 - urvalssortering.py
+
+# Kapitel 15 - Sorteringar
+# Programmering 1 med Python - Lärobok
+
+# Kodexempel från boken med förklaringar
+
 from random import randint
 from time import perf_counter
 
