@@ -47,13 +47,13 @@ def skrivutRad(lista):
 
 # Huvudprogram
 def main():
-    # a) 
+    # a) 33 % chans till 1, 33 % till x och 33 % till 2 
     print('a)')
     skrivutRad(stryktipsrad(33,33,33))
 
     print()
     print('b)')
-    # b) 50 % cganst till 1, 25 % till x och 25 % till 2 
+    # b) 50 % chans till 1, 25 % till x och 25 % till 2 
     skrivutRad(stryktipsrad(50,25,25))
 
 ## Huvudprogram anropas 
