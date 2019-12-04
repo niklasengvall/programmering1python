@@ -26,7 +26,6 @@ def greeting(name, message = 'nice to see you!'):
 
     print('Hi ' + name + ', ' + message)
 
-
 # Programmet startar här
 n = input("What's your name? ")
 greeting(n)         
