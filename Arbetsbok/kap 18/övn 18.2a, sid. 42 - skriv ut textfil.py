@@ -1,6 +1,6 @@
 #!/usr/bin/python3.8
 
-# Filnamn: övn 18.2, sid. 42 - skriv ut textfil.py
+# Filnamn: övn 18.2a, sid. 42 - skriv ut textfil.py
 
 # Filhantering
 # Programmeringsövningar till kapitel 18
