@@ -2,7 +2,7 @@
 
 # Filnamn: kap. 18, sid. 208 - säkrare filhantering.py
 
-# Kapitel 19 - Filhantering
+# Kapitel 18 - Filhantering
 # Programmering 1 med Python - Lärobok
 
 # Kodexempel från boken med förklaringar
