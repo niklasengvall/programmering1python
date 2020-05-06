@@ -1,0 +1,2 @@
+En liten textfil som ska öppnas och läsas in för att sedan skrivas ut på skärmen.
+Detta är rad två i filen. 

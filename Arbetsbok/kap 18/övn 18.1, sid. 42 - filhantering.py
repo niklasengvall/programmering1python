@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/bin/python3
 
 # Filnamn: övn 18.1, sid. 42 - filhantering.py
 
