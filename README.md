@@ -13,7 +13,7 @@ _Av respekt till författare och upphovsrättsliga lagar så har jag medvetet ä
 kodexemplen från boken. Detta i sin tur ger dig som läsare fler infallsvinklar och 
 exempel på hur man kan lösa något._
 
-Senast uppdaterad 2020-05-07
+Senast uppdaterad 2020-05-11
 
 Niklas Engvall,
 Borlänge

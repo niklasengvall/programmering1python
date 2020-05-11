@@ -18,9 +18,6 @@ def rubrik():
     print('==============================================')
     print()
   
-def avsluta():
-    exit()
-
 def fragaFilnamn():
     # Testa om användaren anger mint ett tecken
     filnamn = input('Ange filnamn: ')

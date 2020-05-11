@@ -1,2 +1,14 @@
 En liten textfil som ska öppnas och läsas in för att sedan skrivas ut på skärmen.
 Detta är rad två i filen. 
+Vi fortsätter skriva lite.
+La lala laaa
+Testing, testing
+1, 2, 3 ...
+a
+b
+c
+d
+e
+Hua vad det ränner iväg med rader.
+Sista raden i min terminal
+och då undrar man hur denna rad skrivs ut.
