@@ -29,9 +29,9 @@ Borlänge
 
 ## Innehållsförteckning 
 
-  :heavy_minus_sign: = Ingen källkod finns till avsnittet
-  :white_check_mark: = Kodexempel/övningar finns till kapitlet/avsnittet men är ej slutfört
-  :heavy_check_mark: = Alla kodexempel/övningar till kapitlet/avsnittet är färdigställda 
+  :heavy_minus_sign: = Ingen källkod finns till avsnittet<br />
+  :white_check_mark: = Kodexempel/övningar finns till kapitlet/avsnittet men är ej slutfört<br />
+  :heavy_check_mark: = Alla kodexempel/övningar till kapitlet/avsnittet är färdigställda<br /> 
   [TOMT] = Ej påbörjat kapitel
 
 ### Läroboken
@@ -76,8 +76,8 @@ Borlänge
 |   20    | Länkade listor och andra datastrukturer              |   229  |           |
 |   20    | Testa dig själv. Frågor till kapitel 20              |   239  |           |
 |   21    | Grafiskt användarinterface med tkinter               |   241  |           |
-
-
+  
+  
 ### Arbetsboken
 
 | Kapitel | Avsnitt                                              |  Sida  |   Status  |
@@ -99,7 +99,7 @@ Borlänge
 |   15    | Sorteringar                                          |   165  | :heavy_check_mark: |
 |   16    | Mer om listor och dictionaries                       |   181  | :heavy_check_mark: |
 |   17    | Teckentabeller                                       |   193  | :heavy_check_mark: |
-|   18    | Filhantering                                         |   207  | :heavy_check_mark: |
+|   18    | Filhantering                                         |   207  | :white_check_mark: |
 |   19    | Klasser och objekt                                   |   217  |           |
 |   20    | Länkade listor och andra datastrukturer              |   229  |           |
 |   21    | Grafiskt användarinterface med tkinter               |   241  |           |
