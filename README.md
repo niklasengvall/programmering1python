@@ -2,8 +2,8 @@
 
 Det här "repository" innehåller kodexempel och lösningsförslag till läroboken och arbetsboken
 
-![Programmering 1 - Python - Lärobok - 3:e upplagan, 2016](larobok.jpg)
-![Programmering 1 - Python - Arbetsbok - 3:e upplagan, 2016](arbetsbok.jpg)
+![Programmering 1 - Python - Lärobok - 3:e upplagan, 2016](larobok.png)
+![Programmering 1 - Python - Arbetsbok - 3:e upplagan, 2016](arbetsbok.png)
 
 Utgiven av Thelin Läromedel - [www.skolportalen.se](https://www.skolportalen.se "Öppna skolportalens sida")
 Författare: Jan Sundström
@@ -37,10 +37,10 @@ Borlänge
 
 | Kapitel | Avsnitt                                              |  Sida  |   Status  |
 | :-----: | ---------------------------------------------------- | :----: | :-------: |
-|         | Förlagets förord                                           1  |    :heavy_minus_sign:      |
-|         | Författarens förord                                        3  |    :heavy_minus_sign:      |
-|         | Python                                                     3  |    :heavy_minus_sign:      |
-|   02    | Varför lära sig programmering?                             4  |    :heavy_minus_sign:      |
+|         | Förlagets förord                                     |     1  |    :heavy_minus_sign:      |
+|         | Författarens förord                                  |     3  |    :heavy_minus_sign:      |
+|         | Python                                               |     3  |    :heavy_minus_sign:      |
+|   02    | Varför lära sig programmering?                       |     4  |    :heavy_minus_sign:      |
 |   02    | Författarens förord                                           |    :heavy_minus_sign:      |
 |   02    | Författarens förord                                           |    :heavy_minus_sign:      |
 |   02    | Författarens förord                                           |    :heavy_minus_sign:      |
