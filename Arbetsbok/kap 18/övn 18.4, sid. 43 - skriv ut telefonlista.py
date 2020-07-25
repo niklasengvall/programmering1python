@@ -50,7 +50,7 @@ def main():
     # Variabeldeklarationer
     filinnehall = []  
     
-    # Skrivut programrubrik
+    # Skriv ut programrubrik
     skrivutRubrik()
 
     # Läs in filens innehåll
