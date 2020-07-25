@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.7
+#!/usr/local/bin/python3.8
 
 # Filnamn: kap. 16, sid. 182 - lista till sträng.py
 
