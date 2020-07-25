@@ -99,7 +99,7 @@ Borlänge
 |   15    | Sorteringar                                          |    39  | :white_check_mark: |
 |   16    | Mer om listor och dictionaries                       |    40  | :heavy_check_mark: |
 |   17    | Teckentabeller                                       |    41  | :heavy_check_mark: |
-|   18    | Filhantering                                         |   207  | :white_check_mark: |
-|   19    | Klasser och objekt                                   |   217  |           |
-|   20    | Länkade listor och andra datastrukturer              |   229  |           |
-|   21    | Grafiskt användarinterface med tkinter               |   241  |           |
+|   18    | Filhantering                                         |    42  | :white_check_mark: |
+|   19    | Klasser och objekt                                   |    44  |           |
+|   20    | Länkade listor och andra datastrukturer              |    45  |           |
+|   21    | Grafiskt användarinterface med tkinter               |    46  |           |
