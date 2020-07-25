@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.7
+#!/usr/local/bin/python3.8
 
 # Filnamn: övn 15.1c, sid. 39 - bubbelsortering.py
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.7
+#!/usr/local/bin/python3.8
 
 # Filnamn: övn 14.6, sid. 38 - datorn gissar ett tal.py
 
