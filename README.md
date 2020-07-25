@@ -62,7 +62,7 @@ Borlänge
 |   11    | Testa dig själv. Frågor till kapitel 11              |   133  | :heavy_check_mark: |
 |   12    | Sköldpaddsgrafik                                     |   135  | :heavy_check_mark: |
 |   13    | Rekursion - funktioner som anropar sig själva        |   159  | :heavy_check_mark: |
-|   14    | Sökning                                              |   163  | :heavy_check_mark: |
+|   14    | Sökning                                              |   163  | :heavy_minus_sign: |
 |   15    | Sorteringar                                          |   165  | :heavy_check_mark: |
 |   15    | Testa dig själv. Frågor till kapitel 15              |   179  | :heavy_check_mark: |          
 |   16    | Mer om listor och dictionaries                       |   181  | :heavy_check_mark: |
@@ -82,23 +82,23 @@ Borlänge
 
 | Kapitel | Avsnitt                                              |  Sida  |   Status  |
 | :-----: | ---------------------------------------------------- | :----: | :-------: |
-|    1    | Programmering - introduktion                         |    19  | :heavy_check_mark: |
-|    2    | Installera python och kom igång                      |    29  | :heavy_check_mark: |
-|    3    | Skapa program eller skript                           |    47  | :heavy_check_mark: |
-|    4    | Villkor, If-satser                                   |    55  | :heavy_check_mark: |
-|    5    | Loopar - upprepning, itteration                      |    63  | :heavy_check_mark: |
-|    6    | Mer om teckensträngar i Python                       |    75  | :heavy_check_mark: |
-|    7    | Ettor och nollor                                     |    87  | :heavy_check_mark: |
-|    8    | Listor och tipplar                                   |    95  | :heavy_check_mark: |
-|    9    | Funktioner                                           |   107  | :heavy_check_mark: |
-|   10    | Slumptal i programmering                             |   121  | :heavy_check_mark: |
-|   11    | Felhantering i Python                                |   129  | :heavy_check_mark: |
-|   12    | Sköldpaddsgrafik                                     |   135  | :heavy_check_mark: |
-|   13    | Rekursion - funktioner som anropar sig själva        |   159  | :heavy_check_mark: |
-|   14    | Sökning                                              |   163  | :heavy_check_mark: |
-|   15    | Sorteringar                                          |   165  | :heavy_check_mark: |
-|   16    | Mer om listor och dictionaries                       |   181  | :heavy_check_mark: |
-|   17    | Teckentabeller                                       |   193  | :heavy_check_mark: |
+|    1    | Programmering - introduktion                         |     2  |           |
+|    2    | Installera python och kom igång                      |     3  |           |
+|    3    | Skapa program eller skript                           |     5  | :heavy_check_mark: |
+|    4    | Villkor, If-satser                                   |     7  | :heavy_check_mark: |
+|    5    | Loopar - upprepning, itteration                      |     9  | :heavy_check_mark: |
+|    6    | Mer om teckensträngar i Python                       |    14  | :heavy_check_mark: |
+|    7    | Ettor och nollor                                     |    18  | :heavy_check_mark: |
+|    8    | Listor och tipplar                                   |    21  | :heavy_check_mark: |
+|    9    | Funktioner                                           |    22  | :heavy_check_mark: |
+|   10    | Slumptal i programmering                             |    24  | :white_check_mark: |
+|   11    | Felhantering i Python                                |    28  | :heavy_check_mark: |
+|   12    | Sköldpaddsgrafik                                     |    29  | :white_check_mark: |
+|   13    | Rekursion - funktioner som anropar sig själva        |    32  | :white_check_mark: |
+|   14    | Sökning                                              |    36  | :white_check_mark: |
+|   15    | Sorteringar                                          |    39  | :white_check_mark: |
+|   16    | Mer om listor och dictionaries                       |    40  | :heavy_check_mark: |
+|   17    | Teckentabeller                                       |    41  | :heavy_check_mark: |
 |   18    | Filhantering                                         |   207  | :white_check_mark: |
 |   19    | Klasser och objekt                                   |   217  |           |
 |   20    | Länkade listor och andra datastrukturer              |   229  |           |
