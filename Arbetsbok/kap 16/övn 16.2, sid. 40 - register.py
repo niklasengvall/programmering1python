@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.7
+#!/usr/local/bin/python3.8
 
 # Filnamn: övn 16.2, sid. 40 - register.py
 
@@ -6,7 +6,7 @@
 # Programmeringsövningar till kapitel 16
 
 # Programmet låter användaren mata in uppgifer till register över e-postadresser, vilka lagras i et dictionary. 
-# Nycklarna ska vara namn oc e-postadresserna värden. Vi låter användaren välja vad som ska göras genom ett menyval
+# Nycklarna ska vara namn och e-postadresserna värden. Vi låter användaren välja vad som ska göras genom ett menyval
 # I denna övning så lägger jag till en funktion för att kontrollera så att e-postadressen innehåller minst 
 # ett @ och en .
 
