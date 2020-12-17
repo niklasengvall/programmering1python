@@ -25,6 +25,7 @@ def bubbelsortering(lista):
         if index >= (len(lista) - 1):
             index = 0
             byttPlats = False
+            antalPass += 1
 # Huvudprogram
 def main():
     antal = int(input('Hur många tal vill du sortera? '))
