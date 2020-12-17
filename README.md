@@ -71,7 +71,7 @@ Borlänge
 |   17    | Testa dig själv. Frågor till kapitel 17              |   205  | :heavy_check_mark: |
 |   18    | Filhantering                                         |   207  | :heavy_check_mark: |
 |   18    | Testa dig själv. Frågor till kapitel 18              |   215  | :heavy_check_mark: |
-|   19    | Klassert och objekt                                  |   217  |           |
+|   19    | Klasser och objekt                                   |   217  |           |
 |   19    | Testa dig själv. Frågor till kapitel 19              |   222  |           |
 |   20    | Länkade listor och andra datastrukturer              |   229  |           |
 |   20    | Testa dig själv. Frågor till kapitel 20              |   239  |           |
@@ -82,8 +82,8 @@ Borlänge
 
 | Kapitel | Avsnitt                                              |  Sida  |   Status  |
 | :-----: | ---------------------------------------------------- | :----: | :-------: |
-|    1    | Programmering - introduktion                         |     2  |           |
-|    2    | Installera python och kom igång                      |     3  |           |
+|    1    | Programmering - introduktion                         |     2  | :heavy_check_mark: |
+|    2    | Installera python och kom igång                      |     3  | :heavy_check_mark: |
 |    3    | Skapa program eller skript                           |     5  | :heavy_check_mark: |
 |    4    | Villkor, If-satser                                   |     7  | :heavy_check_mark: |
 |    5    | Loopar - upprepning, itteration                      |     9  | :heavy_check_mark: |
