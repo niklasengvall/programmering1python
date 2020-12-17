@@ -1,0 +1,36 @@
+Svar på kontrollfrågor till kapitel 1, sid. 2
+
+1.  De fyra programmerings-nivåerna: Maskinkodsprogrammering (hexadecimalt)
+                                     Assemblerprogrammering (Mnemonics)
+                                     Kompilerande språk (C/C++)
+                                     Interpreterande språk (Python)
+
+2.  Källkod är själva kodspråket (syntaxen) man använder för att programmera,
+    dvs. göra ett program.
+
+3.  Källkod måste kompileras, göras om till maskinkod innan den kan användas 
+    av en dator.
+
+4.  a) Interpreterade språk, typ BASIC och Python.
+    
+    b) Programmeringsspråk där ingen översättning till maskinkod sker, utan 
+       som istället har ett särskilt program som styrt av källkoden utför 
+       instruktionerna kallas interpretator (tolk).
+       
+
+5.  En kompilator översätter programkoden (källkoden) till maskinkod.
+
+6.  Vid översättning av ett program från källkod till maskinkod så sker det 
+    oftast i två steg, först kompilering där objektkod för varje fil skapas, 
+    därefter länkas objektkodsfilerna samman till en maskinkodsfil.
+
+7.  Program som man använder för att skriva in källkod kallas allmänt för 
+    editor (texteditor) eller i mer avancerade fall där man använder en 
+    utvecklingsmiljö, IDE (Integrated Development Environment) eller RAD 
+    verktyg.
+
+8.  IDLE är en utvecklingsmiljö för Python.
+
+9.  RAD är en annan benämning för utvecklingsmiljö och betyder 
+    Rapid Application Development.
+    

@@ -1,0 +1,75 @@
+Svar på kontrollfrågor till kapitel 2, sid. 3
+
+1.  Pythons aritmetiska operatorer:
+
+    +   Addition
+    -   Subtraktion
+    *   Multiplikation
+    /   Division
+    %   Modulo, ger resten vid division
+    //  Heltalsdivision, obs avrundar nedåt, ej bra vid negativa tal
+    **  Exponentiering, upphöjt till
+
+2.  Variabelnamn får innehålla bokstäver, siffror och understrykningstecken.
+    Men de får inte börja med en siffra.
+
+    a3 = tillåtet
+    tal5 = tillåtet
+    5e = otillåtet, börjar med en siffra
+    Pi = tillåtet
+    Kalle = tillåtet
+    ettLångtVariabelnamn = tillåtet, här använder man s.k. kamelnotation
+    pris per liter = otillåtet, innehåller mellanslag
+    rabatt% = otillåtet, innehåller procenttecken
+
+    Generellt så bör variabelnamn vara entydiga och förklara med dess namn 
+    vad de innehåller.
+
+3.  Felet med raden
+    namn = input("Ange förnamn: )" 
+    är att parantes och citationstecken växlat plats på slutet.
+
+4.  Felet med raden
+    alder = int( input(print('Ange din ålder: ')))  
+    är att texten None skrivs ut på raden nedanför innan jag får mata in åldern. 
+    Input behöver ej en print-sats i sig.
+
+5.  För att skriva ut ett pris på 14,5 på en vara med t.ex. 2 decimaler, så kan man 
+    formatera på följande sätt:
+
+    pris = 14.5 # Obs! Notera decimalpunkt istället för decimalkomma
+    print("Varan kostar %.2f kr." % (pris)) # Äldre formateringnotation (snabb)
+    print("Varan kostar {:.2f} kr.".format(pris)) # Python 3 notation (långsam)
+    print(f"Varan kostar {pris:.2f} kr.") # f-strings, snabbast, Python >= 3.6 
+
+6. Vad blir utskriften av följande kodrader, kör i terminalfönster, inte IDLE:
+
+    a) print("Nej\nu\ngår det för långt\n")
+       
+       Nej
+       u
+       går det för långt
+    
+    b) print("Hejsan\rHopp\n") 
+
+       Hoppan
+
+    c) print("Näh\bä ")
+
+       Nää
+
+    d) print("Mån\tTis\tOns\tTor\tFre")
+
+       Mån     Tis     Ons     Tor     Fre
+
+       
+7.  Fixa utskrift av följande texter på bildskärmen:
+
+    a) Gubben kallar \ för "bakåtsnedstreck", men jag säger "backslash".
+
+       print('Gubben kallar \\ för "bakåtsnedstreck", men jag säger "backslash".')
+
+    b) "What's up" said Fred.
+       
+       print('"What\'s up" said Fred.')
+       
