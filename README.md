@@ -18,7 +18,7 @@ _Av respekt till författare och upphovsrättsliga lagar så har jag medvetet ä
 kodexemplen från boken. Detta i sin tur ger dig som läsare fler infallsvinklar och 
 exempel på hur man kan lösa något._
 
-Senast uppdaterad 2020-07-24
+Senast uppdaterad 2020-12-19
 
 Niklas Engvall,
 Borlänge
@@ -64,7 +64,7 @@ Borlänge
 |   13    | Rekursion - funktioner som anropar sig själva        |   159  | :heavy_check_mark: |
 |   14    | Sökning                                              |   163  | :heavy_minus_sign: |
 |   15    | Sorteringar                                          |   165  | :heavy_check_mark: |
-|   15    | Testa dig själv. Frågor till kapitel 15              |   179  | :heavy_check_mark: |          
+|   15    | Testa dig själv. Frågor till kapitel 15              |   179  |           |          
 |   16    | Mer om listor och dictionaries                       |   181  | :heavy_check_mark: |
 |   16    | Testa dig själv. Frågor till kapitel 16              |   191  | :heavy_check_mark: |
 |   17    | Teckentabeller                                       |   193  | :heavy_check_mark: |

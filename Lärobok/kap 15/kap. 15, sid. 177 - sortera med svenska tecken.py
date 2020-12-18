@@ -13,7 +13,7 @@ svTabell = str.maketrans('ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖåäöéÉàÀüÜ',
 def jämför(sträng):
     return sträng.translate(svTabell)
 
-efternamn = ['Åberg', 'Öberg', 'Viklund', 'andersson', 'Arnberg', 'Ärlandsson',              'Sträng', 'Ottosson', 'Engvall']
+efternamn = ['Åberg', 'Öberg', 'Viklund', 'andersson', 'Arnberg', 'Ärlandsson', 'Sträng', 'Ottosson', 'Engvall']
 
 # Skriver ut en nyskapad sorterad lista
 print(sorted(efternamn, key=jämför))
