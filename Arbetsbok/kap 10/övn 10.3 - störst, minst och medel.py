@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 10.3 - störst, minst och medel.py
 

@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 5.12 - ränta på pengar - kap 5, sid. 10.py
 

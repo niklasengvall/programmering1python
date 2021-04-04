@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: kap. 8, sid. 96 - listor av listor och ändra i dem.py
 

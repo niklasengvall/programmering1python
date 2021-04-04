@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 5.15 - skriva ut siffror på samma rad - kap. 5, sid. 11.py
 

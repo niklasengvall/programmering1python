@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 # Filnamn: övn 6.6 - räkna antal av visst tecken - kap. 6, sid. 15.py
 
 # Mer om teckensträngar i Python

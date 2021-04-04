@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 3.5 - beräkna bensinpris - kap 3, sid. 5.py
 

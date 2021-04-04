@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: kap. 5, sid. 64 - for-loopar i Python med range, ver 2.py
 

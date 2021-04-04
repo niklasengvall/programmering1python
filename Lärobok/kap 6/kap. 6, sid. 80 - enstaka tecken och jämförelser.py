@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filname: kap. 6, sid. 80 - enstaka tecken och jämförelser.py
 

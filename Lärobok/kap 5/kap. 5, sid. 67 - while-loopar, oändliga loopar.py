@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: kap. 5, sid. 67 - while-loopar, oändliga loopar.py
 

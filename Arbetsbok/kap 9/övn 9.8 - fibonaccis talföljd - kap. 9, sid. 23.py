@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 9.8 - fibonaccis talföljd - kap. 9, sid. 23.py
 
