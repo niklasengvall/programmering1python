@@ -35,7 +35,9 @@ customer2 = Person()
 # Skriver ut objektens dataattribut via klassmetoden skrivut
 customer1.skrivut()
 customer2.skrivut()
+
 # Skriver ut klassens docstring
 print(customer1.__doc__)
+
 # Skriver ut objektets attribut vis metoden __str__
 print(customer1)
