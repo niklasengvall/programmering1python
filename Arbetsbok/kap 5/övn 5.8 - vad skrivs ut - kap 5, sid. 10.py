@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 5.8 - vad skrivs ut- kap 5, sid 10.py
 

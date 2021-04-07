@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 17.5-6, sid. 41 - teckensträng på binär form.py
 

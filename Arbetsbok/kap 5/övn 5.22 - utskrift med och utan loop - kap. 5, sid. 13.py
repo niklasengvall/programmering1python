@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 5.22 - utskrift med och utan loop - kap. 5, sid. 13.py
 

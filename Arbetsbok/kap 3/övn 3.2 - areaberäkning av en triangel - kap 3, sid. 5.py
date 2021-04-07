@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 3.2 - areaberäkning av en triangel - kap 3, sid. 5.py
 

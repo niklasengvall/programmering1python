@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 8.4 - skriv ut månad i klartext - kap. 8, sid. 21.py
 

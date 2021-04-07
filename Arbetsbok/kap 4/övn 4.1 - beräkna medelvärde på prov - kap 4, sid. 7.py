@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 4.1 - beräkna medelvärde på prov - kap 4, sid. 7.py
 

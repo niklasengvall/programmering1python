@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 5.11 - celcius farenheit tabell med while - kap 5, sid. 10.py
 

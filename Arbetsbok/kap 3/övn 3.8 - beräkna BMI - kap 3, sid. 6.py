@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 3.8 - beräkna BMI - kap 3, sid. 6.py
 

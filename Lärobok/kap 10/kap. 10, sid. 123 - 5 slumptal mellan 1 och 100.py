@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: kap. 10, sid. 123 - 10 slumptal mellan 1 och 1000.py
 

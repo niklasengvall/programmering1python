@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: kap. 10, sid. 124 - 6 tärningskast.py
 # Kapitel 10 - Slumptal i programmering

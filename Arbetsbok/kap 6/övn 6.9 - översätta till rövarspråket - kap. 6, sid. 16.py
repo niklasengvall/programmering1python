@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 6.9 - översätta till rövarspråket - kap. 6, sid. 16.py
 

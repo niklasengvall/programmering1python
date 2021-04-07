@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: kap. 5, sid. 63 - for-loopar i Python med tipplar.py
 

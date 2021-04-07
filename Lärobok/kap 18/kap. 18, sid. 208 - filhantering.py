@@ -1,6 +1,6 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
-# Filnamn: kap. kap. 18, sid. 208 - filhantering.py
+# Filnamn: kap. 18, sid. 208 - filhantering.py
 
 # Kapitel 18 - Filhantering
 # Programmering 1 med Python - Lärobok

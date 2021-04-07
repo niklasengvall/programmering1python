@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 4.6 - kreditvärdig - kap 4, sid. 8.py
 

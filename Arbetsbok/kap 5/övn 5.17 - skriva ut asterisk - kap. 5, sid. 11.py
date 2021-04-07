@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 5.17 - skriva ut asterisk - kap. 5, sid. 11.py
 

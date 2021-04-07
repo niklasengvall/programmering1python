@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: kap. 8, sid. 100 - referenser, kopior och variablers liv.py
 
