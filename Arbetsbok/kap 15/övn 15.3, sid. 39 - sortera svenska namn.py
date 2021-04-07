@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 15.3, sid. 39 - sortera svenska namn.py
 

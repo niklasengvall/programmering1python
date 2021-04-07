@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: kap. 16, sid. 186 - loopa, sortera på nycklar eller value.py
 

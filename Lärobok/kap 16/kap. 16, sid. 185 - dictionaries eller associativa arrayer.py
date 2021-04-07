@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: kap. 16, sid. 185 - dictionaries eller associativa arrayer.py
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 15.2, sid. 39 - combsort.py
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: övn 16.2, sid. 40 - register.py
 

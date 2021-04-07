@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.8
+#!/usr/local/bin/python3.9
 
 # Filnamn: kap. 15, sid. 177 - sortera med svenska tecken.py
 
