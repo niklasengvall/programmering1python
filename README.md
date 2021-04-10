@@ -71,8 +71,8 @@ Borlänge
 |   17    | Testa dig själv. Frågor till kapitel 17              |   205  | :heavy_check_mark: |
 |   18    | Filhantering                                         |   207  | :heavy_check_mark: |
 |   18    | Testa dig själv. Frågor till kapitel 18              |   215  | :heavy_check_mark: |
-|   19    | Klasser och objekt                                   |   217  |           |
-|   19    | Testa dig själv. Frågor till kapitel 19              |   222  |           |
+|   19    | Klasser och objekt                                   |   217  | :heavy_check_mark: |
+|   19    | Testa dig själv. Frågor till kapitel 19              |   222  | :heavy_check_mark: |
 |   20    | Länkade listor och andra datastrukturer              |   229  |           |
 |   20    | Testa dig själv. Frågor till kapitel 20              |   239  |           |
 |   21    | Grafiskt användarinterface med tkinter               |   241  |           |
@@ -100,6 +100,6 @@ Borlänge
 |   16    | Mer om listor och dictionaries                       |    40  | :heavy_check_mark: |
 |   17    | Teckentabeller                                       |    41  | :heavy_check_mark: |
 |   18    | Filhantering                                         |    42  | :white_check_mark: |
-|   19    | Klasser och objekt                                   |    44  |           |
+|   19    | Klasser och objekt                                   |    44  | :heavy_check_mark: |
 |   20    | Länkade listor och andra datastrukturer              |    45  |           |
 |   21    | Grafiskt användarinterface med tkinter               |    46  |           |
