@@ -12,7 +12,7 @@
 # till olika positioner i ett koordinatsystem.
 
 # K L A S S D I A G R A M
-#
+
 # +-----------------------------+
 # |  Bilar                      |
 # +-----------------------------+
@@ -118,7 +118,7 @@ def main():
     print(b5)
     print(b6)
     print(b7)
-    
+
     # Skriver ut objektets docstring för både klass och alla metoder
     print(b2.__doc__)
     print(b2.__init__.__doc__)
