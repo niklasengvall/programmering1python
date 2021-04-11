@@ -1,0 +1,33 @@
+
+Testa dig själv. Svar till frågorna kapitel 20, sid. 239
+
+1.  Första elementet i en lista brukar kallas huvud.
+
+2.  Elementen i en lista brukar allmänt kallas för nod/noder.
+
+3.  Med hjälp av metoden __str__ kan vi skapa en strängreperesentation av 
+    skapade objekt och dess innehåll.
+
+4.  En stack är en slags envägslista där man temporärt lagrar information på hög.
+    Sedan tar man tillbaka informationen på så sätt att det man la sist på hög 
+    plockar man först bort. På engelska Last in, first out (LIFO)
+    Vanligt i programmeringssammanhang där vi vill lägga adresser varifrån vi 
+    gjorde funktionsanrop för att hitta tillbaka. Här lägger man ofta funktions-
+    argument. Även lokala variabler kan lagras därsid.
+
+5.  En kö är en slags tvåvägs länkad lista som innehåller referenser till listans
+    första respektive sista listelement. De används med stor fördel när man vill
+    läggat till nya element först, sist eller rent utav mitt i en lista då det 
+    går tidsmässigt snabbt. Listan bygger på principen först in - först ut, på 
+    engelska First in, first out (FIFO).
+
+6.  En tvåvägs länkad lista är mer flexibel gällande hastigheten än en envägslista
+    då man slipper skjuta efter elementen när man t.ex. tar bort eller infogar nya
+    element.
+
+7.  Deque (doble ended queue) är en klass i python som erbjuder tvåvägs länkade 
+    listor. Du hittar den i modulen collections.
+
+8.  Dequeue är engelskt verb för att "avköa", dvs. ta bort från en kö.
+
+
